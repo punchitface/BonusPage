@@ -1,0 +1,67 @@
+/*Code*/
+.bonus-box__code {
+    height: 490px;
+    background-image: url("../img/code_fon.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.code__wrapper {
+    margin: 0 auto;
+    height: 100%;
+    width: 525px;
+}
+
+.code__wrapper__title {
+    padding-top: 80px;
+    font-family: Circe-Bold, sans-serif;
+    font-size: 30pt;
+    text-align: center;
+}
+
+.code__wrapper__text {
+    font-family: Circe-Regular,sans-serif;
+    font-size: 14pt;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.mark {
+    font-family: Circe-Bold sans-serif;
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+.code__wrapper__chars {
+
+}
+
+.chars__title {
+    font-family: Circe-Regular, sans-serif;
+    font-size: 11pt;
+    text-align: center;
+}
+
+.chars__text {
+    font-family: Circe-Regular, sans-serif;
+    font-size: 30pt;
+    border: 1px solid #cecece;
+    width: 150px;
+    margin: 0 auto;
+    margin-top: 15px;
+    text-align: center;
+    background: #fff;
+}
+
+.chars__sms {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.chars__sms a {
+    color: #222222;
+    text-decoration: none;
+    border-bottom: 1px dashed #222222;
+}

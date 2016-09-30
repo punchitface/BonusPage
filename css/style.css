@@ -1,0 +1,28 @@
+@import url("header.css");
+@import url("code.css");
+@import url("balance.css");
+
+/* Fonts */
+@font-face {
+    font-family: Circe-Regular;
+    src: url("../fonts/Circe/Circe-Regular.ttf");
+}
+
+@font-face {
+    font-family: Circe-Bold;
+    src: url("../fonts/Circe/Circe-Bold.ttf");
+}
+
+@font-face {
+    font-family: Circe-ExtraBold;
+    src: url("../fonts/Circe/Circe-ExtraBold.ttf");
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
+
+
+
